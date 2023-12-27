@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-tinkering",
+  "version": "1.0.0",
+  "description": "experimenting with rabbitmq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsturtz/rabbitmq-tinkering.git"
+  },
+  "author": "Taylor Sturtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsturtz/rabbitmq-tinkering/issues"
+  },
+  "homepage": "https://github.com/tsturtz/rabbitmq-tinkering#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
